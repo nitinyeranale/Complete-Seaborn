@@ -37,7 +37,7 @@ This repository contains my practice files and exercises while learning Seaborn,
 
 - Swarm Plot: Similar to a strip plot but with points adjusted to avoid overlap, showing the distribution of categorical data.
 
--Count Plot: Displays the count of observations in each category of a categorical variable.
+- Count Plot: Displays the count of observations in each category of a categorical variable.
 
 
 # Contributions
