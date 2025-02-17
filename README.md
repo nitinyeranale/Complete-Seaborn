@@ -15,5 +15,30 @@ This repository contains my practice files and exercises while learning Seaborn,
 - Customizing axis labels, titles, and legends
 - Saving and exporting visualizations
 
-Contributions
+
+# Seaborn Plots 
+- Bar Plot: Displays data as rectangular bars, useful for comparing quantities across different categories.
+
+- Box Plot: Visualizes the distribution of data using quartiles and outliers, showing the spread of a dataset.
+
+- Violin Plot: Combines aspects of box plot and density plot, displaying the distribution and probability density of data.
+
+- Heatmap: Visualizes matrix-like data with color encoding, typically used for correlation or association data.
+
+- Scatter Plot: Shows the relationship between two continuous variables using points on a 2D plane.
+
+- Line Plot: Displays data points connected by straight lines, typically used for time series or trend analysis.
+
+- Pair Plot: Shows pairwise relationships between multiple variables in a dataset using scatter plots and histograms.
+
+- Facet Grid: Creates subplots based on a categorical variable, allowing you to compare distributions across categories.
+
+- Strip Plot: Displays individual data points along a single axis, typically used to show the distribution of categorical data.
+
+- Swarm Plot: Similar to a strip plot but with points adjusted to avoid overlap, showing the distribution of categorical data.
+
+-Count Plot: Displays the count of observations in each category of a categorical variable.
+
+
+# Contributions
 - Feel free to fork the repository and submit pull requests if you have improvements or additional practice examples to share.
